@@ -39,7 +39,7 @@ Observations:
 
 I think I could have coded mainwindow.py in a more elegant way, in the end I prioritized functionality and just went for it. If I would code it again I would definitely do it differently.
 
-Somehow when I open a graph and then close it, the instance does not close completely in matplotlib. After some time using the app, it shows a warning: "more than 20 figures have been opened". Still works fine, but definitely something that would need a fix to optimice the app.
+When I open a graph and then close it, the instance does not close completely in matplotlib. After some time using the app, it shows a warning: "more than 20 figures have been opened". Still works fine, but definitely something that would need a fix to optimice the app.
 
 ### Future additions
 
