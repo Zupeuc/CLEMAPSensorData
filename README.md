@@ -23,16 +23,17 @@ Run main.py file
 
 ### Code explanation
 
-- main.py runs the app
+- main.py 
+        Runs the app.
 - mainwindow.py
         Backend: Contains the main window labels and check boxes functions. 
-        Interacts with the database
+        Interacts with the database.
 - graphs.py
-        Deals with the plot of the graph and how it shows
+        Deals with the plot of the graph and how it shows.
 - funcionts.py
-        Module with some assistant functions
+        Module with some assistant functions.
 - mainwindow.py
-        Frontend design
+        Frontend design.
 
 Observations:
 
