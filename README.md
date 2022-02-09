@@ -14,7 +14,7 @@
 
 ### Instalation and how to run
 
-Intstall Required libraries
+Required libraries
 - PyQt5
 - Pandas
 - Matplitlib
