@@ -31,7 +31,7 @@ Run main.py file
 - graphs.py:
         Deals with the plot of the graph and how it shows.
 - funcionts.py:
-        Module with some assistant functions.
+        Module with some auxiliary functions.
 - mainwindow.py:
         Frontend design.
 
