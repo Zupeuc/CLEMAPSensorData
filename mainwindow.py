@@ -11,7 +11,7 @@ class MainWindow(qt_name, QtClass):
         super().__init__()
         self.setupUi(self)
 
-        "Set Outliers out"
+        "Reads data base and sets outliers out"
         self.data = pd.read_csv('output.csv', parse_dates=True)
         self.data["time"] = self.data["time"].str.slice(start=7, stop=-13)
         self.data_outliers = self.data.copy()
@@ -97,7 +97,7 @@ class MainWindow(qt_name, QtClass):
             self.hide_labels()
             self.x_axis.hide()
 
-    "Checks if p,q,i,v are all checked"
+    "Checks if p,q,i,v are all NOT checked"
     def all_checked(self):
         if not self.checkBox_p.isChecked() and not self.checkBox_q.isChecked():
             if not self.checkBox_v.isChecked() and not self.checkBox_i.isChecked():
