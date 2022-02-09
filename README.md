@@ -50,6 +50,6 @@ Since the database is only of one hour, I decided to leave this out since it wou
 
 ### Conclusion
 
-I had fun programming this app, I am greatful for the task. The functionality is as I wanted it to be. The code can be written smoother and better. Practice makes perfect.
+I had fun programming this app, I am thankfull for the task. The functionality is as I wanted it to be. The code can be written smoother and better. Practice makes perfect.
 
-Thank you for your time!
+Looking forward for your feedback, thank you for your time!
