@@ -25,7 +25,7 @@ Run main.py file
 
 - main.py runs the app
 - mainwindow.py
-        Backend: Contains the main window labels and check boxes functions
+        Backend: Contains the main window labels and check boxes functions. 
         Interacts with the database
 - graphs.py
         Deals with the plot of the graph and how it shows
